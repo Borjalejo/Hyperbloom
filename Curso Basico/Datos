@@ -1,0 +1,15 @@
+Numeros Enteros
+
+int=Depende del sistema operativo
+int8= 8bits o -128 a 127
+int16= 16bits o -2^15 a 2^15-1
+int32= 32bits o -2^31 a 2^31-1
+int164= 64bits o -2^63 a 2^63-1
+
+Numeros Enteros Positivos
+
+uint=Depende del sistema operativo
+uint8= 8bits o 0 a 2^8-1
+uint16= 16bits o 0 a 2^16-1
+uint32= 32bits o 0 a 2^32-1
+uint164= 64bits o 0 a 2^64-1
